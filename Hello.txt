@@ -1,0 +1,4 @@
+words = 'hello world'
+letters = list(words)
+
+print(letters)
